@@ -1,0 +1,16 @@
+{
+    "name": "leon/cli-shop",
+    "autoload": {
+        "psr-4": {
+            "Leon\\CliShop\\": "src/",
+            "UI\\": "src/UI/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leon",
+            "email": "leon00albert@gmail.com"
+        }
+    ],
+    "require": {}
+}
